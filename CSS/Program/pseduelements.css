@@ -1,0 +1,22 @@
+h1::selection{
+    background-color: aqua;
+    color: blueviolet;
+}
+
+h3::before{
+    content: "*";
+    color: blue;
+}
+
+h4::after{
+    content: "*";
+    color: brown;
+}
+
+h2::first-letter{
+    color: coral;
+}
+
+p::first-line{
+    color: chartreuse;
+}

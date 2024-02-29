@@ -1,0 +1,51 @@
+h1{
+    border-color: blue;
+    border-width: 8px;
+    border-style: dashed;
+    outline-color: black;
+    outline-style: dotted;
+    outline-width: 8px;
+    outline-offset: 6px;
+    padding-left: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+h2{
+    border-color: blue;
+    border-width: 8px;
+    border-style: dashed;
+    outline-color: black;
+    outline-style: dotted;
+    outline-width: 8px;
+    outline-offset: 6px;
+    padding-left: 90px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+h3{
+    
+        border-color: blue;
+        border-width: 8px;
+        border-style: dashed;
+        outline-color: black;
+        outline-style: dotted;
+        outline-width: 8px;
+        outline-offset: 6px;
+        padding-left: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-top: 50px;
+        margin-left: 450px;
+        margin-right: 450px;
+    }
+    
+
+

@@ -1,0 +1,13 @@
+h1{
+    display: inline-block;
+    background-color: aqua;
+    height: 50px;
+    width: 350px;
+}
+
+h2{
+    display: inline-block;
+    background-color: blueviolet;
+    height: 50px;
+    width: 200px;
+}

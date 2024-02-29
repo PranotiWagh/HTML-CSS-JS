@@ -1,0 +1,19 @@
+h1{
+    background-color: red;
+    color:aqua;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    background-color: blue;
+    color:pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+h3{
+    background-color: yellowgreen;
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+}
